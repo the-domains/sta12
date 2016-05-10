@@ -1,0 +1,28 @@
+name: Sta12
+favicon: null
+layout_spectrum: 0.7757588911335915
+typography_spectrum: 0.9507221465464681
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5888489694334567
+  lightness: 0.9867181156296283
+  saturation: 0.5359939867630601
+  rhythmicContrast: 0.9949076268821955
+purpose: []
